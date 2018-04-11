@@ -1,8 +1,25 @@
 # Deep Reinforcement Learning
+## Welcome to RL!
+1. [TD-Gammon, 1995](https://courses.cs.washington.edu/courses/cse590hk/01sp/Readings/tesauro95cacm.pdf)
+2. [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
+3. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+4. [OpenAI, dota](https://blog.openai.com/dota-2/)
+5. [Inventory management in supply chains: a reinforcement learning approach](http://read.pudn.com/downloads142/sourcecode/others/617477/inventory%20supply%20chain/04051310570412465(1).pdf)
+6. [Cheat Sheet for RL](https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf)
+
+
+## Lesson 2. The RL Framework: The Problem
+1. [Open AI Gym](https://github.com/openai/gym)
+
+## Lesson 3. The RL Framework: The Solution
 ## Lesson 4. Dynamic Programming
 ## Lesson 5. Monte Carlo Methods
 ## Lesson 6. Temporal-Difference Methods
-
+## Lesson 7. Mini Project: Solve OpenAI Gym's Taxi-v2 Task
+## Lesson 8. RL in Continuous Spaces
+## Lesson 9. Deep Q-Learning
+## Lesson 10. Policy Gradients
+## Lesson 11. Actor-Critic Methods
 
 ## Deep Reinforcement Learning
 - Basic Lectures
