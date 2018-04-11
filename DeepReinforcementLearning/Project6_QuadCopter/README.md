@@ -15,13 +15,14 @@ No. Episodes: 500
 
 Best landing: 
 
-First 50 mean reward = -1.9904359428
-Mid 50 mean reward = -2.42584774453
-Last 50 mean reward = -2.21222858165
+- First 50 mean reward = -0.137262002995
+- Mid 50 mean reward = 1.83526543088
+- Last 50 mean reward = 2.6936476944
 
-First 50 mean distance = 1.17050106264
-Mid 50 mean distance = 1.49744736643
-Last 50 mean distance = 1.32383773692
+
+- First 50 mean distance = 53.7832225683
+- Mid 50 mean distance = 2.38841290356
+- Last 50 mean distance = 0.772107723791
 
 I also used Deep Deterministic Policy Gradient (DDPG) as suggested from the project.
 [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
